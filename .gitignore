@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Android/Kotlin (Gradle)
+.gradle/
+build/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Env / secrets
+.env
+*.keystore
+*.jks
