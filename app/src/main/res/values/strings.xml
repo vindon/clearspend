@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClearSpend</string>
+    <string name="tagline">Intelligent Offline-First Personal Finance</string>
+    <string name="sms_disclosure_title">SMS Transaction Ingestion</string>
+    <string name="sms_disclosure_body">ClearSpend processes bank SMS alerts strictly on your device to automatically track your expenses. Your SMS messages are never uploaded, shared, or sent to external servers.</string>
+    <string name="notification_disclosure_title">Banking Notification Access</string>
+    <string name="notification_disclosure_body">Optional notification access allows ClearSpend to detect UPI and card transactions from apps like Google Pay, PhonePe, and Paytm on-device.</string>
+</resources>

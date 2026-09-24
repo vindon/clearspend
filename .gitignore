@@ -11,6 +11,12 @@ captures/
 .externalNativeBuild/
 .cxx/
 
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
 # Env / secrets
 .env
 *.keystore
